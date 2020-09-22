@@ -1,4 +1,4 @@
-# Proyecto1
+# rivera_94243_Proyect1_TictactoeGame
 Los trabajos realizados en la clase
 
 El juego que se realizo fue de tic-tac-toe el cual la "x" se coloca en el primer jugador y el "o" es el segundo jugador.
